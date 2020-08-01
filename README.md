@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as a programmer at JrContabilidade de Três.
+- 🔭 I am currently working as a programmer at JrContabilidade de Três Rios.
 
 <!--
 **rodolfoscarp/rodolfoscarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
